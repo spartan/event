@@ -44,7 +44,17 @@
     "config": {
         "sort-packages": true
     },
-    "scripts": {
+    "extra": {
+        "spartan": {
+            "install": {
+                "commands": [
+                    "__DIR__ . '/../vendor/spartan/event/src/Command'"
+                ],
+                "services": [
+                    "Spartan\\Event\\ServiceProvider::class"
+                ]
+            }
+        }
     },
     "minimum-stability": "dev",
     "prefer-stable": true
