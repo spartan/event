@@ -1,4 +1,11 @@
 # Changelog
+### [0.1.1](https://github.com/spartan/event/compare/v0.1.0...v0.1.1) (2021-03-04)
+
+
+### New
+
+* spartan provision config ([9182647](https://github.com/spartan/event/commit/9182647efa46a1b997e26fb1c5292c595157edc9))
+
 ## 0.1.0 (2021-03-03)
 
 
