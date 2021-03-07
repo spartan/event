@@ -1,4 +1,11 @@
 # Changelog
+### [0.1.2](https://github.com/spartan/event/compare/v0.1.1...v0.1.2) (2021-03-07)
+
+
+### Changes
+
+* use Command::loadEnv static method ([1c68b2e](https://github.com/spartan/event/commit/1c68b2e74be3ebfc078007872ad7b1d860dead21))
+
 ### [0.1.1](https://github.com/spartan/event/compare/v0.1.0...v0.1.1) (2021-03-04)
 
 
