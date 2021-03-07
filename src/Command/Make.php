@@ -34,7 +34,7 @@ class Make extends Command
      */
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        $this->loadEnv();
+        self::loadEnv();
 
         $cwd = getcwd();
         $app = getenv('APP_NAME');
