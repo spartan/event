@@ -1,4 +1,11 @@
 # Changelog
+### [0.1.3](https://github.com/spartan/event/compare/v0.1.2...v0.1.3) (2025-12-19)
+
+
+### Changes
+
+* accept spartan/console:0.2 ([c0d2cf3](https://github.com/spartan/event/commit/c0d2cf35d8d4f6c904556b945a3991f488d3628a))
+
 ### [0.1.2](https://github.com/spartan/event/compare/v0.1.1...v0.1.2) (2021-03-07)
 
 
